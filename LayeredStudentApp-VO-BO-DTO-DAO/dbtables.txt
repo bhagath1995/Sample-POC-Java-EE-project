@@ -1,0 +1,1 @@
+SQL> create table student_tab(sno number(5) primary key,sname varchar2(20),total number(5),avg number(7,2),result varchar2(20));
